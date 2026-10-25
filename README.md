@@ -124,7 +124,9 @@
 
 </td>
 </tr>
+</table>
 
+<table>
 <tr>
 <td width="50%" valign="top" align="left">
 
