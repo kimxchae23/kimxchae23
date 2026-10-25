@@ -32,30 +32,40 @@
 
 ## TECH STACK
 
-**Languages**
+### Languages
 
-`Java` `Python` `C` `SQL`
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
+![SQL](https://img.shields.io/badge/SQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 
-**Frontend**
+### Frontend
 
-`HTML5` `CSS3` `JavaScript`
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
-**Backend**
+### Backend
 
-`Spring Boot` `JPA`
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+![JPA](https://img.shields.io/badge/JPA-536B78?style=for-the-badge&logoColor=white)
 
-**Database**
+### Database
 
-`MySQL` `Supabase`
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
 
-**Infra & Tools**
+### Infra & Tools
 
-`AWS EC2` `Docker` `Git` `GitHub Actions`
+![AWS EC2](https://img.shields.io/badge/AWS_EC2-FF9900?style=for-the-badge&logo=amazonec2&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
 
-**Automation**
+### Automation
 
-`openpyxl` `python-docx`
-
+![openpyxl](https://img.shields.io/badge/openpyxl-207245?style=for-the-badge&logoColor=white)
+![python-docx](https://img.shields.io/badge/python--docx-346B9B?style=for-the-badge&logoColor=white)
 
 ### EXPERIENCE
 
@@ -73,68 +83,87 @@
 
 ## FEATURED PROJECTS
 
-<div align="center">
-
 <table>
 <tr>
-<td width="50%" valign="top" align="center">
+<td width="50%" valign="top" align="left">
 
-<h3>AI-Assisted Coding Platform</h3>
-<p><b>AI 기반 코딩 학습 플랫폼</b></p>
-<p>사용자 인증 · Supabase DB 설계<br/>데이터 수집 자동화 · 서비스 연동</p>
+### AI-Assisted Coding Platform
+<sub>AI 기반 코딩 학습 플랫폼</sub>
 
-<img src="https://img.shields.io/badge/Spring_Boot-6DB33F?logo=springboot&logoColor=white" alt="Spring Boot"/>
-<img src="https://img.shields.io/badge/Supabase-3ECF8E?logo=supabase&logoColor=white" alt="Supabase"/>
-<img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" alt="Python"/>
+사용자 인증, DB 설계, 데이터 수집 자동화를 구현한 프로젝트입니다.
+
+**Key Points**
+- 인증 기능 구현
+- Supabase DB 설계
+- 데이터 수집 자동화
+
+**Tech**  
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 
 </td>
-<td width="50%" valign="top" align="center">
+<td width="50%" valign="top" align="left">
 
-<h3>AI Rehabilitation Assistant</h3>
-<p><b>AI 기반 재활치료 보조 애플리케이션</b></p>
-<p>관절 좌표 분석 · 자세 정확도 평가<br/>운동 피드백 · 사용자 결과 화면</p>
+### AI Rehabilitation Assistant
+<sub>AI 기반 재활치료 보조 애플리케이션</sub>
 
-<img src="https://img.shields.io/badge/MediaPipe-0097A7?logoColor=white" alt="MediaPipe"/>
-<img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" alt="Python"/>
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black" alt="JavaScript"/>
+관절 좌표 분석과 자세 정확도 평가를 기반으로 피드백을 제공하는 프로젝트입니다.
 
-<p><a href="https://github.com/Capstone-Design-AI-Personal-Trainer/ARA">View Repository</a></p>
+**Key Points**
+- 관절 좌표 분석
+- 자세 정확도 평가
+- 사용자 결과 화면 구성
+
+**Tech**  
+![MediaPipe](https://img.shields.io/badge/MediaPipe-0097A7?style=flat-square)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+
+[View Repository](https://github.com/Capstone-Design-AI-Personal-Trainer/ARA)
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top" align="left">
+
+### Traceability Automation
+<sub>요구사항 추적성 검토 자동화</sub>
+
+SRS/SDD 개정 내용을 비교하고, 변경사항 검토를 보조하는 자동화 프로젝트입니다.
+
+**Key Points**
+- 문서 비교
+- 변경사항 분류
+- Excel 검토 보조
+
+**Tech**  
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![openpyxl](https://img.shields.io/badge/openpyxl-207245?style=flat-square)
+![python-docx](https://img.shields.io/badge/python--docx-346B9B?style=flat-square)
+
+</td>
+<td width="50%" valign="top" align="left">
+
+### Spring Web Application
+<sub>Spring 기반 사용자 계정 관리</sub>
+
+로그인, 회원가입, MySQL 연동을 구현한 웹 애플리케이션 프로젝트입니다.
+
+**Key Points**
+- 로그인 / 회원가입
+- MySQL 연동
+- 웹 화면과 백엔드 연동
+
+**Tech**  
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 
 </td>
 </tr>
 </table>
-
-<br/>
-
-<table>
-<tr>
-<td width="50%" valign="top" align="center">
-
-<h3>Traceability Automation</h3>
-<p><b>요구사항 추적성 검토 자동화</b></p>
-<p>SRS/SDD 개정 내용 비교<br/>변경사항 분류 · Excel 검토 보조</p>
-
-<img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" alt="Python"/>
-<img src="https://img.shields.io/badge/openpyxl-207245?logoColor=white" alt="openpyxl"/>
-<img src="https://img.shields.io/badge/python--docx-346B9B?logoColor=white" alt="python-docx"/>
-
-</td>
-<td width="50%" valign="top" align="center">
-
-<h3>Spring Web Application</h3>
-<p><b>Spring 기반 사용자 계정 관리</b></p>
-<p>로그인 · 회원가입 · MySQL 연동<br/>웹 화면과 백엔드 서비스 연동</p>
-
-<img src="https://img.shields.io/badge/Java-ED8B00?logo=openjdk&logoColor=white" alt="Java"/>
-<img src="https://img.shields.io/badge/Spring_Boot-6DB33F?logo=springboot&logoColor=white" alt="Spring Boot"/>
-<img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white" alt="MySQL"/>
-
-</td>
-</tr>
-</table>
-
-</div>
----
 
 ### GITHUB ACTIVITY
 
