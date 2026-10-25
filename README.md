@@ -69,7 +69,7 @@
 
 ### EXPERIENCE
 
-<div align="center">
+<div align="left">
 <table>
 <tr><th>Period</th><th>Activity</th><th>Details</th></tr>
 <tr><td>2026.09.01 – </td><td>슈어소프트테크</td><td>Software Verification &amp; Validation · 에너지검증3팀 인턴</td></tr>
