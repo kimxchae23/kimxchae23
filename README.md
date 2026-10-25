@@ -25,7 +25,7 @@
 
 ## TECH STACK
 
-<div align="center">
+<div align="left">
 
 **Languages**
 
