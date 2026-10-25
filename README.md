@@ -1,4 +1,4 @@
-[README_kimxchae23_final.md](https://github.com/user-attachments/files/33925934/README_kimxchae23_final.md)
+(https://github.com/user-attachments/files/33925934/README_kimxchae23_final.md)
 <div align="center">
 
 # 김채령
