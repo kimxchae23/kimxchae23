@@ -141,54 +141,7 @@
 
 ---
 
-### PINNED REPOSITORIES
 
-<div align="center">
-<table>
-<tr>
-<td width="50%" align="center" valign="top">
-<br/>
-<b><a href="https://github.com/Capstone-Design-AI-Personal-Trainer/ARA">AI Rehabilitation Assistant</a></b>
-<br/><br/>
-<sub>Capstone-Design-AI-Personal-Trainer / ARA</sub>
-<br/><br/>
-<sub>MediaPipe 기반 재활치료 보조 애플리케이션</sub>
-<br/><br/>
-<a href="https://github.com/Capstone-Design-AI-Personal-Trainer/ARA">View Repository</a>
-<br/><br/>
-</td>
-<td width="50%" align="center" valign="top">
-<br/>
-<b><a href="https://github.com/kimxchae23/traceability-test">Traceability Test</a></b>
-<br/><br/>
-<sub>kimxchae23 / traceability-test</sub>
-<br/><br/>
-<sub>문서 추적성 자동화 관련 저장소</sub>
-<br/><br/>
-<a href="https://github.com/kimxchae23/traceability-test">View Repository</a>
-<br/><br/>
-</td>
-</tr>
-<tr>
-<td width="50%" align="center" valign="top">
-<br/>
-<b><a href="https://github.com/kimxchae23/personal_study">Personal Study</a></b>
-<br/><br/>
-<sub>kimxchae23 / personal_study</sub>
-<br/><br/>
-<sub>API 기반 악성행위 분석 연구</sub>
-<br/><br/>
-<a href="https://github.com/kimxchae23/personal_study">View Repository</a>
-<br/><br/>
-</td>
-<td width="50%" align="center" valign="top">
-<br/>
-<b><a href="https://github.com/kimxchae23?tab=repositories">More Repositories</a></b>
-<br/><br/>
-<sub>kimxchae23 / repositories</sub>
-<br/><br/>
-<sub>전체 공개 프로젝트 및 학습 기록</sub>
-<br/><br/>
 <a href="https://github.com/kimxchae23?tab=repositories">Explore All</a>
 <br/><br/>
 </td>
