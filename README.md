@@ -1,6 +1,6 @@
 [README.md](https://github.com/user-attachments/files/33924250/README.md)
 <div align="center">
-  <img src="./assets/banner.png" alt="Chaeryeong Kim — Structure the problem. Improve the process." width="100%" />
+  <img src="./banner.png" alt="Chaeryeong Kim — Structure the problem. Improve the process." width="100%" />
 
   <h2>김채령 · Chaeryeong Kim</h2>
   <p><strong>IT Systems & Process Improvement</strong></p>
