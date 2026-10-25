@@ -29,50 +29,33 @@
 
 ---
 
-### TECH STACK
 
-<div align="center">
+## TECH STACK
 
-<table width="100%">
-<tr>
-<td width="50%" valign="top">
-  <h3>Languages</h3>
-  <!-- 기술 배지 -->
-</td>
-<td width="50%" valign="top">
-  <h3>Frontend</h3>
-  <!-- 기술 배지 -->
-</td>
-</tr>
-</table>
+**Languages**
 
-<table width="100%">
-<tr>
-<td width="50%" valign="top">
-  <h3>Backend</h3>
-  <!-- 기술 배지 -->
-</td>
-<td width="50%" valign="top">
-  <h3>Database</h3>
-  <!-- 기술 배지 -->
-</td>
-</tr>
-</table>
+`Java` `Python` `C` `SQL`
 
-<table width="100%">
-<tr>
-<td width="50%" valign="top">
-  <h3>Infra &amp; Tools</h3>
-  <!-- 기술 배지 -->
-</td>
-<td width="50%" valign="top">
-  <h3>Automation</h3>
-  <!-- 기술 배지 -->
-</td>
-</tr>
-</table>
+**Frontend**
 
-</div>
+`HTML5` `CSS3` `JavaScript`
+
+**Backend**
+
+`Spring Boot` `JPA`
+
+**Database**
+
+`MySQL` `Supabase`
+
+**Infra & Tools**
+
+`AWS EC2` `Docker` `Git` `GitHub Actions`
+
+**Automation**
+
+`openpyxl` `python-docx`
+
 
 ### EXPERIENCE
 
