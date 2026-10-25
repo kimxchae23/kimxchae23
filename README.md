@@ -133,7 +133,7 @@
 <img src="https://github-readme-stats.vercel.app/api?username=kimxchae23&show_icons=true&include_all_commits=true&hide_border=true&cache_seconds=86400" alt="GitHub stats including Total Commits" height="165" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kimxchae23&layout=compact&hide_border=true" alt="Most used repository languages" height="165" />
 <br/>
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=kimxchae23&theme=github-light&hide_border=true&area=true" alt="GitHub activity graph" width="100%" />
+
 
 </div>
 
