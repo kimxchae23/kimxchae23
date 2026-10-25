@@ -125,7 +125,6 @@
 </td>
 </tr>
 </table>
-
 <table>
 <tr>
 <td width="50%" valign="top" align="left">
@@ -167,6 +166,7 @@ SRS/SDD 개정 내용을 비교하고, 변경사항 검토를 보조하는 자�
 </tr>
 </table>
 
+---
 ### GITHUB ACTIVITY
 
 <div align="center">
