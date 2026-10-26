@@ -3,14 +3,13 @@
 
 # 김채령
 
-**IT Systems & Process Improvement**
+**Software Engineering · IT Infrastructure**
 
-*Structure the problem. Improve the process.*
-
-요구사항과 데이터 흐름을 이해하고, 기술로 더 나은 업무 방식을 고민합니다.
+*Understand the system. Solve the problem.*
 
 [![GitHub](https://img.shields.io/badge/GitHub-173B57?style=flat-square&logo=github&logoColor=white)](https://github.com/kimxchae23)
-
+[![Email](https://img.shields.io/badge/Email-173B57?style=flat-square&logo=gmail&logoColor=white)](mailto:ryeong7984@naver.com)
+[![Notion](https://img.shields.io/badge/Notion-173B57?style=flat-square&logo=notion&logoColor=white)]([YOUR_NOTION_URL](https://app.notion.com/p/Notion-2a031ea54b788092bc19fdfe76f74676?source=copy_link))
 </div>
 
 ---
@@ -21,7 +20,7 @@
 
 백엔드 개발과 데이터베이스 설계를 시작으로, 소프트웨어 검증과 업무 자동화까지 경험하며 **IT 시스템을 다양한 관점에서 이해**해 왔습니다.
 
-기능 구현에 그치지 않고 **요구사항과 데이터 흐름을 구조적으로 파악하며, 반복되는 업무를 더 효율적으로 개선하는 과정**에 관심이 있습니다. 팀 프로젝트에서는 사용자 인증과 데이터 관리 기능을 구현했고, 소프트웨어 V&V 인턴십에서는 요구사항과 설계 산출물의 연결성을 검토하고 문서 비교 자동화를 시도했습니다.
+기능 구현에 그치지 않고 **데이터 흐름을 구조적으로 파악하며, 시스템을 더 효율적으로 개선하는 과정**에 관심이 있습니다. 팀 프로젝트에서는 사용자 인증과 데이터 관리 기능을 구현했고, 소프트웨어 V&V 인턴십에서는 요구사항과 설계 산출물의 연결성을 검토하고 문서 비교 자동화를 시도했습니다.
 
 현재는 **기업 정보시스템(ERP), IT 운영, 데이터 관리 및 프로세스 개선** 분야로 관심을 넓히고 있습니다.
 
